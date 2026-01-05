@@ -1,0 +1,206 @@
+{
+  "title": "Best DJ Headphones Under $100 (Practical Shortlist)",
+  "description": "A practical shortlist of DJ headphones under $100 with photos, short notes, and Amazon links.",
+  "intro_paragraphs": [
+    "This is a practical shortlist of DJ headphones under $100, focused on models commonly used for cueing, mixing, and everyday practice.",
+    "There\u2019s no ranking, no sponsored placements, and no fluff \u2014 just a curated list with short notes to help you quickly find something suitable and check the current price on Amazon."
+  ],
+  "meta_note": "Prices and availability are shown on Amazon and may change.",
+  "products": [
+    {
+      "product_name": "Audio-Technica ATH-M20x",
+      "amazon_asin": "B00HVLUR18",
+      "image_url": "https://www.audio-technica.com/media/catalog/product/a/t/ath-m20x_01.png",
+      "amazon_url": "https://www.amazon.com/dp/B00HVLUR18",
+      "description": "Balanced, closed-back headphones ideal for DJ practice and everyday monitoring at an entry-level price.",
+      "best_for": [
+        "Best budget option",
+        "Best for practice"
+      ]
+    },
+    {
+      "product_name": "Audio-Technica ATH-M30x",
+      "amazon_asin": "B00HVLUQW8",
+      "image_url": "https://www.audio-technica.com/media/catalog/product/a/t/ath-m30x_overview.png",
+      "amazon_url": "https://www.amazon.com/dp/B00HVLUQW8",
+      "description": "A step up in clarity and comfort, well suited to home DJ setups and light studio use.",
+      "best_for": [
+        "Best all-rounder"
+      ]
+    },
+    {
+      "product_name": "Audio-Technica ATH-M40x",
+      "amazon_asin": "B00HVLUR54",
+      "image_url": "https://www.audio-technica.com/media/catalog/product/a/t/ath-m40x_02.png",
+      "amazon_url": "https://www.amazon.com/dp/B00HVLUR54",
+      "description": "More detailed and accurate sound with good isolation for DJs who want clearer mix separation.",
+      "best_for": [
+        "Best for isolation",
+        "Best all-rounder"
+      ]
+    },
+    {
+      "product_name": "Sennheiser HD 280 Pro",
+      "amazon_asin": "B08SRH899J",
+      "image_url": "https://www.sennheiser.com/cdn-cgi/image/width=1080,format=avif,quality=75/globalassets/digizuite/38361-en-hd_280_pro_product_shot_cutout_isofront.png.png/SennheiserFullWidth",
+      "amazon_url": "https://www.amazon.com/dp/B08SRH899J",
+      "description": "High-isolation headphones designed to block outside noise in loud DJ and studio environments.",
+      "best_for": [
+        "Best for isolation"
+      ]
+    },
+    {
+      "product_name": "Sony MDR-7506",
+      "amazon_asin": "B008FU83UG",
+      "image_url": "https://www.sony.co.uk/commerceapi/medias/7506-1.jpg?context=bWFzdGVyfHJvb3R8MTA1MjA0fGltYWdlL2pwZWd8YURneUwyZ3lZeTg1TmpZd01URXlOelkwT1RVNEx6YzFNRFpmTVM1cWNHY3wyY2FhN2VhZjFmNWVlZjVjYWI0Mzk0MTEwM2I0NThjNWYwZmRhYzQ4N2JiYjBhM2E4OWU2MWEyNDA5YmY3ZWE5&trf=trim",
+      "amazon_url": "https://www.amazon.com/dp/B008FU83UG",
+      "description": "Lightweight professional monitors known for clear, detailed sound and portable design.",
+      "best_for": [
+        "Best for practice",
+        "Best all-rounder"
+      ]
+    },
+    {
+      "product_name": "Beyerdynamic DT 240 Pro",
+      "amazon_asin": "B075MRW285",
+      "image_url": "https://api.beyerdynamic.de/media/catalog/product/b/e/beyerdynamic-dt-240-pro-perspective_transparent.png?store=en&image-type=image",
+      "amazon_url": "https://www.amazon.com/dp/B075MRW285",
+      "description": "Compact, durable headphones with punchy low end and solid isolation for cueing on the go.",
+      "best_for": [
+        "Best for portability"
+      ]
+    },
+    {
+      "product_name": "Mackie MC-100",
+      "amazon_asin": "B08KFQ1Y86",
+      "image_url": "https://mackie.com/img/pic_hero_desktop/2052559-00_MC-100_Web.png",
+      "amazon_url": "https://www.amazon.com/dp/B08KFQ1Y86",
+      "description": "Simple and affordable headphones for DJ practice, learning, and basic monitoring.",
+      "best_for": [
+        "Best budget option"
+      ]
+    },
+    {
+      "product_name": "Mackie MC-150",
+      "amazon_asin": "B07HXH6RZS",
+      "image_url": "https://mackie.com/img/pic_hero_desktop/2049400-00_MC-150_Web.png",
+      "amazon_url": "https://www.amazon.com/dp/B07HXH6RZS",
+      "description": "Improved comfort and sound balance for DJs wanting a budget-friendly upgrade.",
+      "best_for": [
+        "Best for long sessions"
+      ]
+    },
+    {
+      "product_name": "Numark HF125",
+      "amazon_asin": "B0000WS6QI",
+      "image_url": "https://www.numark.com/images/sized/images/product_large/HF125MKII_3000x1875_web-624x390.jpg",
+      "amazon_url": "https://www.amazon.com/dp/B0000WS6QI",
+      "description": "Ultra-budget DJ headphones ideal for beginners and portable backup use.",
+      "best_for": [
+        "Best budget option"
+      ]
+    },
+    {
+      "product_name": "Numark HF175",
+      "amazon_asin": "B09KVBCD9Z",
+      "image_url": "https://thumbs.static-thomann.de/thumb//bdbmagic/pics/prod/531795.jpg",
+      "amazon_url": "https://www.amazon.com/dp/B09KVBCD9Z",
+      "description": "An affordable upgrade with better comfort and fuller sound for longer DJ sessions.",
+      "best_for": [
+        "Best budget option",
+        "Best for practice"
+      ]
+    },
+    {
+      "product_name": "Reloop RH-2500",
+      "amazon_asin": "B009YSW7RS",
+      "image_url": "https://www.reloop.com/media/catalog/product/cache/9/image/736x560/9df78eab33525d08d6e5fb8d27136e95/2/2/5/225307_Reloop_PP.png",
+      "amazon_url": "https://www.amazon.com/dp/B009YSW7RS",
+      "description": "DJ-focused headphones offering balanced sound and comfort for regular home or mobile use.",
+      "best_for": [
+        "Best for practice"
+      ]
+    },
+    {
+      "product_name": "Reloop RHP-10 Mono",
+      "amazon_asin": "B00LMAK50M",
+      "image_url": "https://thumbs.static-thomann.de/thumb//bdbmagic/pics/prod/567285.jpg",
+      "amazon_url": "https://www.amazon.com/dp/B00LMAK50M",
+      "description": "Single-ear DJ headphone designed specifically for cueing and one-ear monitoring.",
+      "best_for": [
+        "Best for cueing"
+      ]
+    },
+    {
+      "product_name": "OneOdio Pro-10",
+      "amazon_asin": "B07PMK6M3K",
+      "image_url": "https://www.oneodio.com/cdn/shop/products/2_c87f68b4-f9a3-457b-8187-8eefeaa8e5bd.jpg?v=1749781690",
+      "amazon_url": "https://www.amazon.com/dp/B07PMK6M3K",
+      "description": "Great-value closed-back headphones with strong bass and good isolation for DJ use.",
+      "best_for": [
+        "Best budget option"
+      ]
+    },
+    {
+      "product_name": "OneOdio Studio Pro-50",
+      "amazon_asin": "B01F59T4HU",
+      "image_url": "https://www.oneodio.com/cdn/shop/files/1_82162578-2a12-4dc9-99bd-b381058006ff.jpg?v=1749781684",
+      "amazon_url": "https://www.amazon.com/dp/B01F59T4HU",
+      "description": "Comfortable over-ear headphones with a warm sound suitable for DJing and casual listening.",
+      "best_for": [
+        "Best for long sessions"
+      ]
+    },
+    {
+      "product_name": "OneOdio Pro-30",
+      "amazon_asin": "B07G74V1YP",
+      "image_url": "https://www.oneodio.com/cdn/shop/products/Pro-30.jpg?v=1749781703",
+      "amazon_url": "https://www.amazon.com/dp/B07G74V1YP",
+      "description": "Lightweight and affordable headphones for beginner DJs and everyday audio use.",
+      "best_for": [
+        "Best budget option"
+      ]
+    },
+    {
+      "product_name": "Pioneer DJ HDJ-CUE1",
+      "amazon_asin": "B08GCM6WVM",
+      "image_url": "https://www.pioneerdj.com/-/media/pioneerdj/images/products/headphones/hdj-cue1/hdj-cue1-wired-hero.png?h=768&w=1024&hash=8D21F78F41403D60CEECBF93008B6F39",
+      "amazon_url": "https://www.amazon.com/dp/B08GCM6WVM",
+      "description": "Popular entry-level DJ headphones with bass-forward sound for easy beatmatching.",
+      "best_for": [
+        "Best for cueing"
+      ]
+    },
+    {
+      "product_name": "Pioneer DJ HDJ-X5",
+      "amazon_asin": "B0759FLG32",
+      "image_url": "https://www.pioneerdj.com/-/media/pioneerdj/images/products/headphones/hdj-x5/black/hdj-x5-k-2.png?h=768&w=1024&hash=332EEC9DB146439E53522722047F934A",
+      "amazon_url": "https://www.amazon.com/dp/B0759FLG32",
+      "description": "Durable DJ headphones built for regular use with clear mids and punchy lows.",
+      "best_for": [
+        "Best for isolation"
+      ]
+    },
+    {
+      "product_name": "Pioneer DJ HDJ-CUE1BT",
+      "amazon_asin": "B08GCR2Z7Q",
+      "image_url": "https://www.pioneerdj.com/-/media/pioneerdj/images/products/headphones/hdj-cue1/hdj-cue1bt-k-hero.png?h=768&w=1024&hash=59F1C78A4B25DDEE262D689003A99692",
+      "amazon_url": "https://www.amazon.com/dp/B08GCR2Z7Q",
+      "description": "Wired and Bluetooth DJ headphones offering flexibility for mixing and everyday listening.",
+      "best_for": [
+        "Best for portability"
+      ]
+    },
+    {
+      "product_name": "Audio-Technica ATH-M50x",
+      "amazon_asin": "B00HVLUR86",
+      "image_url": "https://www.audio-technica.com/media/catalog/product/a/t/ath-m50x_01.png",
+      "amazon_url": "https://www.amazon.com/dp/B00HVLUR86",
+      "description": "Versatile, well-built headphones with strong bass and clarity for DJing and production.",
+      "best_for": [
+        "Best all-rounder",
+        "Best for long sessions"
+      ]
+    }
+  ]
+}
